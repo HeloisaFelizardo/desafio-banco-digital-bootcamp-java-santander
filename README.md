@@ -21,7 +21,7 @@ Este é um projeto de um sistema de banco digital desenvolvido em Java. Ele ofer
 
 ### Como Usar
 
-1. Clone este repositório: `git clone https://github.com/seu-usuario/banco-digital.git`
+1. Clone este repositório: `git clone https://github.com/HeloisaFelizardo/desafio-banco-digital-bootcamp-java-santander.git`
 2. Importe o projeto em sua IDE Java preferida.
 3. Execute o arquivo `Main.java` para testar as funcionalidades do banco digital.
 
